@@ -1,10 +1,10 @@
 {
     "stations": [
         {
-            "name": "BBC News",
+            "name": "Bein",
             "logo": "bbc_news.png",
             "url": [
-                "http://51.52.156.22:8888/http/004"
+                "https://movieslk21.com/teguh/bein1.m3u"
             ]
         },
         {
